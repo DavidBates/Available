@@ -96,7 +96,7 @@ If you prefer running the project locally:
     npm run dev
     ```
 
-3. **Open your browser** and navigate to `http://localhost:3000` to see the app in action.
+3. **Open your browser** and navigate to `http://localhost:5147` to see the app in action.
 
 ## Deploying on Raspberry Pi
 
